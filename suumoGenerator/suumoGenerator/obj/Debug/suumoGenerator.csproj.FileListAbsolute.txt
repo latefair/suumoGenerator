@@ -1,0 +1,15 @@
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.exe.config
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.exe
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.pdb
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\MainWindow.g.cs
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\App.g.cs
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator_MarkupCompile.cache
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator_MarkupCompile.lref
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\MainWindow.baml
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.g.resources
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.Properties.Resources.resources
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.csproj.GenerateResource.Cache
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.csproj.CoreCompileInputs.cache
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.exe
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.pdb
+E:\Program\CSprojects\suumoGenerator\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.csprojResolveAssemblyReference.cache

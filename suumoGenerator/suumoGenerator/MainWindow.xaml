@@ -1,0 +1,22 @@
+﻿<Window x:Class="suumoGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:suumoGenerator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="251.265">
+    <Grid>
+        <Button x:Name="button" Content="generate!!" HorizontalAlignment="Left" Margin="115,255,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="button_Click"/>
+        <TextBox x:Name="suumo" HorizontalAlignment="Left" Height="23" Margin="20,31,0,0" TextWrapping="Wrap" Text="スーモ" VerticalAlignment="Top" Width="120" TextChanged="suumo_TextChanged"/>
+        <TextBox x:Name="su" HorizontalAlignment="Left" Height="23" Margin="20,91,0,0" TextWrapping="Wrap" Text="スモ" VerticalAlignment="Top" Width="120" TextChanged="su_TextChanged"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="20,70,0,0" TextWrapping="Wrap" Text="スモ(二文字のみ)" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="20,10,0,0" TextWrapping="Wrap" Text="スーモ" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="20,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="39"><Run Text="絵文字"/><Run Text=""/></TextBlock>
+        <TextBox x:Name="emojiA" HorizontalAlignment="Left" Height="23" Margin="51,151,0,0" TextWrapping="Wrap" Text="🌚" VerticalAlignment="Top" Width="157" TextChanged="emojiA_TextChanged"/>
+        <TextBlock x:Name="textBlock_Copy2" HorizontalAlignment="Left" Margin="20,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="94" Width="26" Text="A            B            C" LineHeight="36"/>
+        <TextBox x:Name="emojiB" HorizontalAlignment="Left" Height="23" Margin="51,183,0,0" TextWrapping="Wrap" Text="🌝" VerticalAlignment="Top" Width="157" TextChanged="emojiB_TextChanged"/>
+        <TextBox x:Name="emojiC" HorizontalAlignment="Left" Height="23" Margin="51,220,0,0" TextWrapping="Wrap" Text="🌞" VerticalAlignment="Top" Width="157" TextChanged="emojiC_TextChanged"/>
+
+    </Grid>
+</Window>
