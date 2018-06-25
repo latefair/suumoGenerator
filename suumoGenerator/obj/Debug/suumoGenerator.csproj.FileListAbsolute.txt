@@ -1,0 +1,8 @@
+E:\Program\github\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.exe.config
+E:\Program\github\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.exe
+E:\Program\github\suumoGenerator\suumoGenerator\bin\Debug\suumoGenerator.pdb
+E:\Program\github\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.Properties.Resources.resources
+E:\Program\github\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.csproj.GenerateResource.Cache
+E:\Program\github\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.csproj.CoreCompileInputs.cache
+E:\Program\github\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.exe
+E:\Program\github\suumoGenerator\suumoGenerator\obj\Debug\suumoGenerator.pdb
